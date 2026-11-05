@@ -1,0 +1,8 @@
+{
+  "name": "Portfolio Pro",
+  "description": "A modern, ultra-responsive personal portfolio with dark/light themes, customizable accent colors, interactive resume, project showcase, and in-app profile customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
